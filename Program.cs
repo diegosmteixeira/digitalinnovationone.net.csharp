@@ -2,6 +2,7 @@
 
 namespace DigitalInnovationOne
 {
+    //Aula sobre Estrutura de um Programa
     class Program
     {
         static void Main(string[] args)
@@ -34,9 +35,9 @@ namespace DigitalInnovationOne
                     declaram tipos, que contêm membros, e podem ser 
                     organizados em namespaces*/
 
-                    //Classes e interfaces são exemplos de tipos
+                    //Tipos = Classes e interfaces são exemplos de tipos
 
-                    //Campos, métodos, propriedades e eventos são exemplos de membros
+                    //Membros = Campos, métodos, propriedades e eventos são exemplos de membros
                     
             Console.WriteLine("Estrutura de Programa C#!");
         }
