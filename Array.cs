@@ -41,7 +41,7 @@ namespace DigitalInnovationOne
         //Inicializador de array
 
         //primeira forma
-        int[] a = new int[] (1, 2, 3);
+        int[] a = new int[]{1, 2, 3};
         
         //segunda forma
         int[] a = {1, 2, 3};           

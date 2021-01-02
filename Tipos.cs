@@ -24,16 +24,16 @@ namespace DigitalInnovationOne
             //Exemplos de Tipo de valor:
             
             //Numéricos:
-            sbyte, short, int, long, byte, unshort, uint, ulong
+            // sbyte, short, int, long, byte, unshort, uint, ulong
 
             //Caracteres Unicode:
-            char
+            // char
 
             //Pontos flutuantes: 
-            float, double, decimal
+            // float, double, decimal
 
             //Booleano:
-            Booleano
+            // Booleano
 
             //enum, struct e tipos nullabe (Exemplo int?)
             /*o inteiro por padrão começa com o valor zero
@@ -58,12 +58,12 @@ namespace DigitalInnovationOne
         //Exemplos de tipo referência
 
         //Tipos de Classe:
-        class, object, string
+        // class, object, string
 
         //Tipos Arrays:
-        int[], int[,] //etc
+        // int[], int[,] //etc
 
-        interface, delegate
+        // interface, delegate
 
     }
 
