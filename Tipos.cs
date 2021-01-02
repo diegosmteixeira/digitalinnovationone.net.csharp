@@ -2,10 +2,7 @@ using System;
 
 namespace DigitalInnovationOne
 {
-    class Tipos
-    {
-    static void Main(string[] args) 
-    {
+
         //Tipos de valor
 
                 /*essas variáveis de Tipo de Valor contêm diretamente seus dados
@@ -64,8 +61,4 @@ namespace DigitalInnovationOne
         // int[], int[,] //etc
 
         // interface, delegate
-
-    }
-
-}
 }

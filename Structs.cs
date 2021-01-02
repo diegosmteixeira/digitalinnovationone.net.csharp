@@ -1,7 +1,5 @@
 using System;
 
-public class Structs 
-{
     // Como as classes, as structs são estruturas de dados que podem
     // conter membros de dados e membros de ação, mas, diferentemente das classes,
     // as structs são tipos de valor e não requerem alocação de heap
@@ -19,7 +17,6 @@ public class Structs
     
     // O uso de structs em vez de classes para pequenas estruturas de dados pode fazer
     // uma grande diferença no número de alocações de memória
-}
 
 public struct Ponto
 {
